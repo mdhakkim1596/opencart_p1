@@ -1,0 +1,56 @@
+22:37:16.636 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue Button
+22:37:17.467 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating on Excepted Message
+22:37:17.467 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Ending TC_001_AccountRegistrationTest ***
+22:37:22.300 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+22:37:22.535 [main] INFO  testCases.TC_002_LoginTest - *** Clicked on My Account ***
+22:37:23.217 [main] INFO  testCases.TC_002_LoginTest - *** Clicked on Login Link ***
+22:37:23.221 [main] INFO  testCases.TC_002_LoginTest - *** Providing Login Details ***
+22:37:23.836 [main] INFO  testCases.TC_002_LoginTest - *** Clicked on Login Button ***
+22:37:24.591 [main] INFO  testCases.TC_002_LoginTest - *** Confirmation on Target Page ***
+22:37:25.058 [main] INFO  testCases.TC_002_LoginTest - *** Clicked on Login Button ***
+22:37:25.058 [main] INFO  testCases.TC_002_LoginTest - *** Ending TC_002_LoginTest ***
+15:01:24.563 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+15:01:24.811 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+15:01:25.577 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register Link
+15:01:25.581 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer Data
+15:01:26.484 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue Button
+15:01:27.342 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating on Excepted Message
+15:01:27.342 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Ending TC_001_AccountRegistrationTest ***
+15:01:31.673 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+15:01:31.878 [main] INFO  testCases.TC_002_LoginTest - *** Clicked on My Account ***
+15:01:32.642 [main] INFO  testCases.TC_002_LoginTest - *** Clicked on Login Link ***
+15:01:32.679 [main] INFO  testCases.TC_002_LoginTest - *** Providing Login Details ***
+15:01:33.233 [main] INFO  testCases.TC_002_LoginTest - *** Clicked on Login Button ***
+15:01:33.935 [main] INFO  testCases.TC_002_LoginTest - *** Confirmation on Target Page ***
+15:01:34.398 [main] INFO  testCases.TC_002_LoginTest - *** Clicked on Login Button ***
+15:01:34.398 [main] INFO  testCases.TC_002_LoginTest - *** Ending TC_002_LoginTest ***
+15:02:01.062 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+15:02:01.308 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+15:02:01.975 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register Link
+15:02:01.982 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer Data
+15:02:02.804 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue Button
+15:02:03.684 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating on Excepted Message
+15:02:03.684 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Ending TC_001_AccountRegistrationTest ***
+15:02:07.680 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+15:02:07.880 [main] INFO  testCases.TC_002_LoginTest - *** Clicked on My Account ***
+15:02:08.489 [main] INFO  testCases.TC_002_LoginTest - *** Clicked on Login Link ***
+15:02:08.492 [main] INFO  testCases.TC_002_LoginTest - *** Providing Login Details ***
+15:02:08.987 [main] INFO  testCases.TC_002_LoginTest - *** Clicked on Login Button ***
+15:02:09.623 [main] INFO  testCases.TC_002_LoginTest - *** Confirmation on Target Page ***
+15:02:10.053 [main] INFO  testCases.TC_002_LoginTest - *** Clicked on Login Button ***
+15:02:10.053 [main] INFO  testCases.TC_002_LoginTest - *** Ending TC_002_LoginTest ***
+15:05:19.738 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+15:05:20.287 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+15:05:21.089 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register Link
+15:05:21.094 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer Data
+15:05:22.097 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue Button
+15:05:23.219 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating on Excepted Message
+15:05:23.219 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Ending TC_001_AccountRegistrationTest ***
+15:05:29.092 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+15:05:29.288 [main] INFO  testCases.TC_002_LoginTest - *** Clicked on My Account ***
+15:05:30.009 [main] INFO  testCases.TC_002_LoginTest - *** Clicked on Login Link ***
+15:05:30.013 [main] INFO  testCases.TC_002_LoginTest - *** Providing Login Details ***
+15:05:30.620 [main] INFO  testCases.TC_002_LoginTest - *** Clicked on Login Button ***
+15:05:31.443 [main] INFO  testCases.TC_002_LoginTest - *** Confirmation on Target Page ***
+15:05:31.971 [main] INFO  testCases.TC_002_LoginTest - *** Clicked on Login Button ***
+15:05:31.971 [main] INFO  testCases.TC_002_LoginTest - *** Ending TC_002_LoginTest ***
