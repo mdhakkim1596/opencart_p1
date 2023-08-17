@@ -44,7 +44,7 @@ public class TC_002_LoginTest extends BaseClass {
 		logger.info("*** Confirmation on Target Page ***");
 		
 		myAccountPage.clickLogout();
-		logger.info("*** Clicked on Login Button ***");
+		logger.info("*** Clicked on Logout Button ***");
 		
 	}
 		catch (Exception e) {

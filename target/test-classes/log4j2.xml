@@ -20,8 +20,8 @@
 
 <Loggers>
 	<Root level ="Info">  <!-- here you can use multiple log levels All < Trace < Debug < Info < Warm < Error -->
-<AppenderRef ref = "File"/>
-	<!-- <AppenderRef ref = "Console"/> -->
+<AppenderRef ref = "Console"/>
+	<!-- <AppenderRef ref = "File"/> -->
 </Root>
 </Loggers>
 </Configuration>
