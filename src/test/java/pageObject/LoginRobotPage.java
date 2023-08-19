@@ -48,6 +48,9 @@ public class LoginRobotPage extends BasePage{
 	}
 	
 	public void clickLogin() throws AWTException {
+		
+		btnLogin.click();
+		
 		Robot r2 = new Robot();
 		r2.keyPress(KeyEvent.VK_TAB);
 		r2.keyRelease(KeyEvent.VK_TAB);
