@@ -38,13 +38,13 @@ public class TC_004_LoginTest_RobotClass extends BaseClass{
 		lr.clickLogin();
 		logger.info("*** Clicked on Login Button ***");
 		
-		MyAccountPage myAcc = new MyAccountPage(driver);
-		boolean targetpage = myAcc.isMyAccountPageExist();
+		MyAccountPage myAccountPage = new MyAccountPage(driver);
+		boolean targetpage = myAccountPage.isMyAccountPageExist();
 		Assert.assertEquals(targetpage, true);
 		
 		logger.info("*** Confirmation on Target Page ***");
 		
-		myAcc.clickLogout();
+		myAccountPage.clickLogout();
 		logger.info("*** Clicked on Logout Button ***");
 	}
 		catch (Exception e) {
