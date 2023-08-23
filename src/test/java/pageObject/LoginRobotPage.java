@@ -9,14 +9,14 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-public class LoginRobotPage extends BasePage{
-	
-	//constructor
-	public LoginRobotPage (WebDriver driver){
+public class LoginRobotPage extends BasePage {
+
+	// constructor
+	public LoginRobotPage(WebDriver driver) {
 		super(driver);
 	}
-	
-	//locator
+
+	// locator
 	@FindBy(id = "input-email")
 	WebElement txtEmailAddress;
 
@@ -25,38 +25,38 @@ public class LoginRobotPage extends BasePage{
 
 	@FindBy(xpath = "//button[text()='Login']")
 	WebElement btnLogin;
-	
-	//actions methods
+
+	// actions methods
 	public void setEmail(String email) throws AWTException {
-		
+
 		txtEmailAddress.sendKeys(email);
-		
+
 		Robot r = new Robot();
 		r.keyPress(KeyEvent.VK_TAB);
 		r.keyRelease(KeyEvent.VK_TAB);
-		
+
 	}
-	
+
 	public void setPassword(String password) throws AWTException {
-		
+
 		txtPassword.sendKeys(password);
-		
+
 		Robot r = new Robot();
 		r.keyPress(KeyEvent.VK_TAB);
 		r.keyRelease(KeyEvent.VK_TAB);
-		
+
 	}
-	
+
 	public void clickLogin() throws AWTException {
-		
+
 		btnLogin.click();
-		
+
 		Robot r2 = new Robot();
 		r2.keyPress(KeyEvent.VK_TAB);
 		r2.keyRelease(KeyEvent.VK_TAB);
 		r2.keyPress(KeyEvent.VK_ENTER);
 		r2.keyRelease(KeyEvent.VK_ENTER);
-		
+
 	}
-	
+
 }
