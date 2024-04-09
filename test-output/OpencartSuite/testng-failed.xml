@@ -9,6 +9,7 @@
     <classes>
       <class name="testCases.TC_004_LoginTest_RobotClass">
         <methods>
+          <include name="teardown"/>
           <include name="set"/>
           <include name="test_loginRobotClass"/>
         </methods>
